@@ -1,2 +1,0 @@
-# brmnc
-Sitio principal BROMINC
